@@ -9,7 +9,7 @@
 <!-- Body -->
 
 ### 🦾 Skills
-<br>**🧑‍💻 Lang and Frameworks**
+**🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
@@ -18,7 +18,7 @@
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)<br><br>
+![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)<br>
 
 **🛠️ Infra and Tools**
 
@@ -36,4 +36,8 @@
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-ormi&layout=compact)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunjumo2)](https://solved.ac/profile/sunjumo2)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunjumo2)](https://solved.ac/profile/sunjumo2)<br><br>
+
+
+### 🏆Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jo-ormi&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
